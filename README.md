@@ -1,4 +1,4 @@
-# 📝 Personal Register Prototype — ADO.NET & DataSet CRUD App • (Archived)
+# 📝 Personal Register Prototype — Personal Crud Prototype • (Archived)
 
 <br>
 
